@@ -9,3 +9,6 @@
 - 🎮 Come on... Who doesn't like to play video games?
 - 📚 I read books about astronomy (There are so many I've left unfinished 😭)
 - 💪 But my main superpower of all is the ability to tell very bad jokes! 😁 (At least, that's what my wife says)
+
+## Come on... You can contact me, I’m not a Diva! 😁
+![Image description](Tech Icons/mail.png)
