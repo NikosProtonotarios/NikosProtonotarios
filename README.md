@@ -1,3 +1,7 @@
+<center> 
+  ![Tech Background](https://media.giphy.com/media/25vV2scY5MwfcK6cL1/giphy.gif)
+</center>
+
 <h1 align="center">## Hiya! 👋 I'm Nikos Protonotarios</h1>
 
   ## About Me
