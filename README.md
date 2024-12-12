@@ -1,16 +1,11 @@
-## Hi there 👋 I'm Nikos Protonotarios
+## Hiya! 👋 I'm Nikos Protonotarios
 
-<!--
-**NikosProtonotarios/NikosProtonotarios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 🌍 Based in the UK
+- 👨‍💻 Dedicated to creating digital stuff
+- 🎸 Passionate about music creation
+- 🎥 Love creating videos
+- ♟️ I enjoy chess and, generally, board games
+- 🎮 Come on... Who doesn't like to play video games?
+- 📚 I read books about astronomy (There are so many I've left unfinished 😭)
+- 💪 But my main superpower of all is the ability to tell very bad jokes! 😁 (At least, that's what my wife says)
