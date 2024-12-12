@@ -1,5 +1,3 @@
-![Tech Music Animation](https://media.giphy.com/media/5yQhe3yOs51F4j3w9f/giphy.gif)
-
 <h1 align="center">## Hiya! 👋 I'm Nikos Protonotarios</h1>
 
   ## About Me
