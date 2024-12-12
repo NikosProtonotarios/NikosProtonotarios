@@ -13,8 +13,6 @@
 ## Come on... You can contact me, I’m not a Diva! 😁
 
 - 📧 **Email:** [nikos@example.com](mailto:nikos@example.com)
-- 📱 **Phone:** +44 123 456 7890
+- 📱 **Phone:** [+44 7721 007167](tel:+447721007167)
 - 🔗 **LinkedIn:** [linkedin.com/in/nikos-protonotarios](https://linkedin.com/in/nikos-protonotarios)
 - 🌐 **Website:** [nikosprotonotarios.com](https://nikosprotonotarios.com)
-- 💼 **GitHub:** [github.com/nikosprotonotarios](https://github.com/nikosprotonotarios)
-
