@@ -22,18 +22,22 @@
 I work with a variety of tools and technologies in my projects. Here are some of the ones I’m most familiar with:
 
 - **Frontend:**
-  - ![HTML5](https://img.shields.io/badge/-HTML5-FF6347?style=flat&logo=html5&logoColor=white)
-  - ![CSS3](https://img.shields.io/badge/-CSS3-4682B4?style=flat&logo=css3&logoColor=white)
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-  - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+  <span style="display: inline-block; margin-right: 10px;">![HTML5](https://img.shields.io/badge/-HTML5-FF6347?style=flat&logo=html5&logoColor=white)</span>
+  <span style="display: inline-block; margin-right: 10px;">![CSS3](https://img.shields.io/badge/-CSS3-4682B4?style=flat&logo=css3&logoColor=white)</span>
+  <span style="display: inline-block; margin-right: 10px;">![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)</span>
+  <span style="display: inline-block; margin-right: 10px;">![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)</span>
+  <span style="display: inline-block; margin-right: 10px;">![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)</span>
+  <span style="display: inline-block; margin-right: 10px;">![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)</span>
+  <span style="display: inline-block; margin-right: 10px;">![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)</span>
 
 - **Backend:**
-  - ![Node.js](https://img.shields.io/badge/-Node.js-8CC84B?style=flat&logo=node.js&logoColor=white)
-  - ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-  - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+  <span style="display: inline-block; margin-right: 10px;">![Node.js](https://img.shields.io/badge/-Node.js-8CC84B?style=flat&logo=node.js&logoColor=white)</span>
+  <span style="display: inline-block; margin-right: 10px;">![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)</span>
+  <span style="display: inline-block; margin-right: 10px;">![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)</span>
+  <span style="display: inline-block; margin-right: 10px;">![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat&logo=mongoose&logoColor=white)</span>
 
 - **Tools & Others:**
-  - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-  - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-  - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-  - ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+  <span style="display: inline-block; margin-right: 10px;">![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)</span>
+  <span style="display: inline-block; margin-right: 10px;">![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)</span>
+  <span style="display: inline-block; margin-right: 10px;">![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)</span>
+  <span style="display: inline-block; margin-right: 10px;">![Thunder Client](https://img.shields.io/badge/-Thunder%20Client-5D2F77?style=flat&logo=thunderclient&logoColor=white)</span>
