@@ -1,6 +1,4 @@
-<center> 
-  ![Tech Background](https://media.giphy.com/media/25vV2scY5MwfcK6cL1/giphy.gif)
-</center>
+![Tech Animation](https://media.giphy.com/media/25vV2scY5MwfcK6cL1/giphy.gif)
 
 <h1 align="center">## Hiya! 👋 I'm Nikos Protonotarios</h1>
 
