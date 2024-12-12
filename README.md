@@ -1,6 +1,6 @@
 <h1 align="center">## Hiya! 👋 I'm Nikos Protonotarios</h1>
 
-## About Me
+  ## About Me
 - 🌍 Based in the UK
 - 👨‍💻 Dedicated to creating digital stuff
 - 🎸 Passionate about music creation
