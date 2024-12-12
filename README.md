@@ -11,4 +11,10 @@
 - 💪 But my main superpower of all is the ability to tell very bad jokes! 😁 (At least, that's what my wife says)
 
 ## Come on... You can contact me, I’m not a Diva! 😁
-![Image description](Home/NikosProtonotarios/mail.png)
+
+- 📧 **Email:** [nikos@example.com](mailto:nikos@example.com)
+- 📱 **Phone:** +44 123 456 7890
+- 🔗 **LinkedIn:** [linkedin.com/in/nikos-protonotarios](https://linkedin.com/in/nikos-protonotarios)
+- 🌐 **Website:** [nikosprotonotarios.com](https://nikosprotonotarios.com)
+- 💼 **GitHub:** [github.com/nikosprotonotarios](https://github.com/nikosprotonotarios)
+
