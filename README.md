@@ -1,4 +1,4 @@
-## Hiya! 👋 I'm Nikos Protonotarios
+<p align="center">## Hiya! 👋 I'm Nikos Protonotarios</p>
 
 ## About Me
 - 🌍 Based in the UK
