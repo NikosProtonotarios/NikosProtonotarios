@@ -15,4 +15,4 @@
 - 📧 **Email:** [protonotariosnick@gmail.com]
 - 📱 **Phone:** [+44 7721 007167](tel:+447721007167)
 - 🔗 **LinkedIn:** [[linkedin.com/in/nikos-protonotarios](https://www.linkedin.com/in/nikos-protonotarios-25665a165/)]
-- 🌐 **Website:** [[nikosprotonotarios.com](https://protonotariosnick.com/)](https://nikosprotonotarios.com)
+- 🌐 **Website:** [[nikosprotonotarios.com](https://protonotariosnick.com/)]
