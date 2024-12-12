@@ -41,3 +41,7 @@ I work with a variety of tools and technologies in my projects. Here are some of
   <span style="display: inline-block; margin-right: 10px;">![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)</span>
   <span style="display: inline-block; margin-right: 10px;">![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)</span>
   <span style="display: inline-block; margin-right: 10px;">![Thunder Client](https://img.shields.io/badge/-Thunder%20Client-5D2F77?style=flat&logo=thunderclient&logoColor=white)</span>
+  <span style="display: inline-block; margin-right: 10px;">![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=white)</span>
+  <span style="display: inline-block; margin-right: 10px;">![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)</span>
+  <span style="display: inline-block; margin-right: 10px;">![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)</span>
+
