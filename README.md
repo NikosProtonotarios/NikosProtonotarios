@@ -13,9 +13,9 @@
 ## Come on... You can contact me, I’m not a Diva! 😁
 
 - 📧 **Email:** [protonotariosnick@gmail.com]
-- 📱 **Phone:** [+44 7721 007167](tel:+447721007167)
 - 🔗 **LinkedIn:** [[linkedin.com/in/nikos-protonotarios](https://www.linkedin.com/in/nikos-protonotarios-25665a165/)]
 - 🌐 **Website:** [[nikosprotonotarios.com](https://protonotariosnick.com/)]
+- 📱 **Phone:** [+44 7721 007167](tel:+447721007167)
 
 ## Technologies I Use 💻
 
@@ -36,7 +36,7 @@ I work with a variety of tools and technologies in my projects. Here are some of
   <span style="display: inline-block; margin-right: 10px;">![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)</span>
   <span style="display: inline-block; margin-right: 10px;">![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat&logo=mongoose&logoColor=white)</span>
 
-- **Tools & Others:**
+- **Tools:**
   <span style="display: inline-block; margin-right: 10px;">![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)</span>
   <span style="display: inline-block; margin-right: 10px;">![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)</span>
   <span style="display: inline-block; margin-right: 10px;">![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)</span>
