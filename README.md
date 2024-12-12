@@ -16,3 +16,24 @@
 - 📱 **Phone:** [+44 7721 007167](tel:+447721007167)
 - 🔗 **LinkedIn:** [[linkedin.com/in/nikos-protonotarios](https://www.linkedin.com/in/nikos-protonotarios-25665a165/)]
 - 🌐 **Website:** [[nikosprotonotarios.com](https://protonotariosnick.com/)]
+
+## Technologies I Use 💻
+
+I work with a variety of tools and technologies in my projects. Here are some of the ones I’m most familiar with:
+
+- **Frontend:**
+  - ![HTML5](https://img.shields.io/badge/-HTML5-FF6347?style=flat&logo=html5&logoColor=white)
+  - ![CSS3](https://img.shields.io/badge/-CSS3-4682B4?style=flat&logo=css3&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+
+- **Backend:**
+  - ![Node.js](https://img.shields.io/badge/-Node.js-8CC84B?style=flat&logo=node.js&logoColor=white)
+  - ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+  - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+- **Tools & Others:**
+  - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+  - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+  - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  - ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
