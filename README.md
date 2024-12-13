@@ -1,4 +1,4 @@
-<h1 align="center">## Hiya! 👋 I'm Nikos Protonotarios</h1>
+<h1 align="center">Hiya! 👋 I'm Nikos Protonotarios</h1>
 
   ## About Me
 - 🌍 Based in the UK
